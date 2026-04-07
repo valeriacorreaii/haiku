@@ -1,7 +1,7 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+    font-family: Sirivennela;
 }
 
 html {
@@ -12,11 +12,12 @@ html {
 body {
     margin: 1rem;
     background-color: black;
-    color: whitesmoke;
-    font-size: 5rem;
+    color: #eaeec5;
+    font-size: 4.2rem;
     overflow: hidden;
+    text-align: center;
 
-	background: url("..//img/sunset.gif");
+	background: url("..//img/heart.gif");
 	background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
